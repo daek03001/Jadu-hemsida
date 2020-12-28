@@ -1,19 +1,18 @@
 <style>
 
 body {
-	background-image: url(background.jpg);
+	background-image: url(DSC_2897.JPG);
 	font-family: "Verdana", sans-serif;
-	
 }
 
 
 h1 { 
-   text-align: Center;
+   text-align: left;
    
 }
 
 h2 { 
-    text-align: right;
+    text-align: left;
 
 }
 
@@ -40,7 +39,7 @@ h3  {
 	
 }
 
-#nav ul li a{S
+#nav ul li a{
 	text-decoration: none;
 	margin-left: 2px;
 	margin-right: 3px;
@@ -50,12 +49,7 @@ h3  {
   color: Indigo;
 }
 
-.loggaIn  {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: Right;
-}	
+
 	
 Header {
 	color: #fff;
@@ -76,12 +70,7 @@ Header {
 	"footer footer footer footer"
 }
 
-header{
-	grid-area:header;'
 
-	
-	
-}
 
 main{
 	grid-area:main;
@@ -89,6 +78,15 @@ main{
 	
 
 } 
+
+header{
+	grid-area:header;'
+
+	
+	
+}
+
+
 
 footer{
 	grid-area:footer;
