@@ -1,40 +1,37 @@
-<!DOCTYPE html>
-<html lang="sv">
-<head>
-<meta charset="UTF-8">
-<Title>Min sida</title>
-<link href="style.css" rel="stylesheet">
-</head>
-<main>
-<body>
 <body class ="container1">
 
-<header>
-	<h1> Om Klockaretorpet </h1>
-</header>
-<p> ------------------------------------------------------------------------------- </p>
-<p> ------------------------------------------------------------------------------- </p>
+<div class="header">
+       <h1>Om Klockaretorpet</h1> 
+	   
+
+	   <p> - Klockaretorpet består av: 2 föräldrar och två barn.  </p>
+	   <p> - Föräldrarna heter Jonas och Anneli och barnen heter Simon och David.  </p>
+	   <p> - Jonas är 48, Anneli är 49, David är 17, Simon är 20.  </p>
+	   <p> - Jonas och Anneli köpte huset 1998 och har levt här i 28år </p>
+	   <p> - De har byggt till ett utehus, växthus och även en pool.  </p>
+	   <p> - Nedan ser du en bild på hela familjen tagen 2009.      </p>
+
+</div>
+ 
+<main>
+    <img src="DSC_1.JPG" alt="huset" width="660" height="400">
+
+</main>
 
 
-
-
-
-
-
-
-
-
-
-
-         <nav>
+       <nav> 
 			<ul>
-
-				<li><a href= "hem.html"> Hem </a></li>
+                <li><a href= "hem.html"> Hem  </a></li>
 				<li><a href= "Historik.html"> Historik  </a></li>			
 				<li><a href= "Nuläge.html"> Nuläge </a></li>
 				<li><a href= "Konstruktion.html"> Konstruktion  </a></li>
+				
+
+
 			</ul>	
-			</nav>	
+			</nav>
 			
 			
-<img src="--" alt="---" width="200" height="150"/>
+<footer> David Ekstedt EEDAT19 </footer>
+	</body>
+	</html>
